@@ -1,1 +1,3 @@
-\
+test if a given profile is equilibrium in small case - ONE Player
+test if a given profile is equilibrium in small case - 2 Players
+StrategyProfile class
